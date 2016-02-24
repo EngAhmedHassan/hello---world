@@ -1,2 +1,3 @@
 # hello---world
-Trial repository
+Hello,
+it is my first trial on github
